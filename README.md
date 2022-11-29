@@ -18,3 +18,16 @@ La práctica 2 se encuentra tanto por ejercicios separados como en un mismo fich
 ## Práctica 3
 
 - Ejercicios donde SI se permiten bucles. Se realizan dos programas sencillos.
+
+## Práctica 4
+
+- Ejercicios de bucles y condicionales. 
+
+## Práctica 5
+
+- Ejercicios de bucles while.
+
+## Practica 6
+
+- Ejercicios de diccionarios.
+
